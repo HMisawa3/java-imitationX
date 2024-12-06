@@ -1,0 +1,13 @@
+package imitationX;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ImitationXApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
